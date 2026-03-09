@@ -21,4 +21,4 @@ Practice basic and advanced Git commands.
 ## Objectives
 
 Practice basic and advanced Git commands.
-## Objectives
+Understand conflict resolution and merge
