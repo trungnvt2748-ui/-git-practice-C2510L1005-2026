@@ -1,3 +1,2 @@
 xuanthang223344@gmail.com
-
-## Objectives
+ Understand conflict resolution and merge
